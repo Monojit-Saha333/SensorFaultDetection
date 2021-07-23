@@ -1,0 +1,579 @@
+2021-06-22	13:14:08.378392		start file name validation!!!
+2021-06-22	13:14:10.971008		No of files copied to bad_raw_files folder : 4
+2021-06-22	13:14:10.971008		No of files copied to good_raw_files folder : 35
+2021-06-22	13:14:10.972008		start column length validation!!!
+2021-06-22	13:14:14.493822		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-22	22:56:24.910841		start file name validation!!!
+2021-06-22	22:56:28.382693		No of files copied to bad_raw_files folder : 4
+2021-06-22	22:56:28.382693		No of files copied to good_raw_files folder : 35
+2021-06-22	22:56:28.382693		start column length validation!!!
+2021-06-22	22:56:32.761980		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-22	22:58:10.888449		start file name validation!!!
+2021-06-22	22:58:11.014375		No of files copied to bad_raw_files folder : 4
+2021-06-22	22:58:11.014375		No of files copied to good_raw_files folder : 35
+2021-06-22	22:58:11.014375		start column length validation!!!
+2021-06-22	22:58:15.441636		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-22	22:59:03.865156		start file name validation!!!
+2021-06-22	22:59:04.094014		No of files copied to bad_raw_files folder : 4
+2021-06-22	22:59:04.094014		No of files copied to good_raw_files folder : 35
+2021-06-22	22:59:04.095014		start column length validation!!!
+2021-06-22	22:59:10.408109		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-22	22:59:15.224816		start file name validation!!!
+2021-06-22	22:59:18.129019		No of files copied to bad_raw_files folder : 4
+2021-06-22	22:59:18.129019		No of files copied to good_raw_files folder : 35
+2021-06-22	22:59:18.130018		start column length validation!!!
+2021-06-22	22:59:22.388939		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-22	23:00:16.487650		start file name validation!!!
+2021-06-22	23:00:16.736496		No of files copied to bad_raw_files folder : 4
+2021-06-22	23:00:16.736496		No of files copied to good_raw_files folder : 35
+2021-06-22	23:00:16.737496		start column length validation!!!
+2021-06-22	23:00:20.736023		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-22	23:02:41.786510		start file name validation!!!
+2021-06-22	23:02:41.922426		No of files copied to bad_raw_files folder : 4
+2021-06-22	23:02:41.922426		No of files copied to good_raw_files folder : 35
+2021-06-22	23:02:41.923425		start column length validation!!!
+2021-06-22	23:02:46.692477		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-22	23:04:02.695801		start file name validation!!!
+2021-06-22	23:04:02.842710		No of files copied to bad_raw_files folder : 4
+2021-06-22	23:04:02.842710		No of files copied to good_raw_files folder : 35
+2021-06-22	23:04:02.843710		start column length validation!!!
+2021-06-22	23:04:15.137106		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-22	23:04:47.712446		start file name validation!!!
+2021-06-22	23:04:47.826377		No of files copied to bad_raw_files folder : 4
+2021-06-22	23:04:47.826377		No of files copied to good_raw_files folder : 35
+2021-06-22	23:04:47.827377		start column length validation!!!
+2021-06-22	23:05:00.692421		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-22	23:06:40.297965		start file name validation!!!
+2021-06-22	23:06:40.457866		No of files copied to bad_raw_files folder : 4
+2021-06-22	23:06:40.457866		No of files copied to good_raw_files folder : 35
+2021-06-22	23:06:40.458864		start column length validation!!!
+2021-06-22	23:06:52.662318		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-22	23:17:41.201646		start file name validation!!!
+2021-06-22	23:17:42.265731		No of files copied to bad_raw_files folder : 4
+2021-06-22	23:17:42.265731		No of files copied to good_raw_files folder : 35
+2021-06-22	23:17:42.266730		start column length validation!!!
+2021-06-22	23:17:46.946836		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-23	12:19:33.375028		start file name validation!!!
+2021-06-23	12:19:42.154311		No of files copied to bad_raw_files folder : 4
+2021-06-23	12:19:42.154311		No of files copied to good_raw_files folder : 35
+2021-06-23	12:19:42.155309		start column length validation!!!
+2021-06-23	12:19:48.001719		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-23	12:33:29.992097		start file name validation!!!
+2021-06-23	12:33:31.483613		No of files copied to bad_raw_files folder : 4
+2021-06-23	12:33:31.483613		No of files copied to good_raw_files folder : 35
+2021-06-23	12:33:31.484611		start column length validation!!!
+2021-06-23	12:33:42.424880		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-23	12:37:37.950087		start file name validation!!!
+2021-06-23	12:37:38.357832		No of files copied to bad_raw_files folder : 4
+2021-06-23	12:37:38.357832		No of files copied to good_raw_files folder : 35
+2021-06-23	12:37:38.359831		start column length validation!!!
+2021-06-23	12:37:42.145528		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-23	12:38:46.209854		start file name validation!!!
+2021-06-23	12:38:46.758515		No of files copied to bad_raw_files folder : 4
+2021-06-23	12:38:46.758515		No of files copied to good_raw_files folder : 35
+2021-06-23	12:38:46.758515		start column length validation!!!
+2021-06-23	12:38:50.660829		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-23	14:16:16.560606		start file name validation!!!
+2021-06-23	14:16:18.565189		No of files copied to bad_raw_files folder : 4
+2021-06-23	14:16:18.565189		No of files copied to good_raw_files folder : 26
+2021-06-23	14:16:18.566188		start column length validation!!!
+2021-06-23	14:16:22.755679		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-23	14:17:35.422610		start file name validation!!!
+2021-06-23	14:17:36.120179		No of files copied to bad_raw_files folder : 4
+2021-06-23	14:17:36.120179		No of files copied to good_raw_files folder : 35
+2021-06-23	14:17:36.120179		start column length validation!!!
+2021-06-23	14:17:39.409491		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-23	14:19:18.843901		start file name validation!!!
+2021-06-23	14:19:18.960832		No of files copied to bad_raw_files folder : 4
+2021-06-23	14:19:18.960832		No of files copied to good_raw_files folder : 35
+2021-06-23	14:19:18.961830		start column length validation!!!
+2021-06-23	14:19:22.911375		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-23	14:20:25.927782		start file name validation!!!
+2021-06-23	14:20:26.092679		No of files copied to bad_raw_files folder : 4
+2021-06-23	14:20:26.092679		No of files copied to good_raw_files folder : 35
+2021-06-23	14:20:26.092679		start column length validation!!!
+2021-06-23	14:20:29.702703		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-23	14:22:29.886003		start file name validation!!!
+2021-06-23	14:22:30.136847		No of files copied to bad_raw_files folder : 4
+2021-06-23	14:22:30.136847		No of files copied to good_raw_files folder : 35
+2021-06-23	14:22:30.137847		start column length validation!!!
+2021-06-23	14:22:34.242534		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-23	14:22:44.962129		start file name validation!!!
+2021-06-23	14:22:45.131025		No of files copied to bad_raw_files folder : 4
+2021-06-23	14:22:45.131025		No of files copied to good_raw_files folder : 35
+2021-06-23	14:22:45.131025		start column length validation!!!
+2021-06-23	14:22:48.657835		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-23	14:23:09.858086		start file name validation!!!
+2021-06-23	14:23:10.017988		No of files copied to bad_raw_files folder : 4
+2021-06-23	14:23:10.017988		No of files copied to good_raw_files folder : 35
+2021-06-23	14:23:10.017988		start column length validation!!!
+2021-06-23	14:23:21.565813		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-23	14:23:32.508742		start file name validation!!!
+2021-06-23	14:23:32.618672		No of files copied to bad_raw_files folder : 4
+2021-06-23	14:23:32.618672		No of files copied to good_raw_files folder : 35
+2021-06-23	14:23:32.618672		start column length validation!!!
+2021-06-23	14:23:36.354351		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	00:01:59.916357		start file name validation!!!
+2021-06-24	00:02:02.690832		No of files copied to bad_raw_files folder : 4
+2021-06-24	00:02:02.690832		No of files copied to good_raw_files folder : 35
+2021-06-24	00:02:02.690832		start column length validation!!!
+2021-06-24	00:02:05.889409		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	00:03:51.473700		start file name validation!!!
+2021-06-24	00:03:51.640598		No of files copied to bad_raw_files folder : 4
+2021-06-24	00:03:51.640598		No of files copied to good_raw_files folder : 35
+2021-06-24	00:03:51.641598		start column length validation!!!
+2021-06-24	00:04:02.824998		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	00:05:04.644664		start file name validation!!!
+2021-06-24	00:05:04.797567		No of files copied to bad_raw_files folder : 4
+2021-06-24	00:05:04.797567		No of files copied to good_raw_files folder : 35
+2021-06-24	00:05:04.797567		start column length validation!!!
+2021-06-24	00:05:16.014381		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	00:05:43.319623		start file name validation!!!
+2021-06-24	00:05:43.606443		No of files copied to bad_raw_files folder : 4
+2021-06-24	00:05:43.606443		No of files copied to good_raw_files folder : 35
+2021-06-24	00:05:43.606443		start column length validation!!!
+2021-06-24	00:05:54.921575		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	00:06:06.507867		start file name validation!!!
+2021-06-24	00:06:06.678763		No of files copied to bad_raw_files folder : 4
+2021-06-24	00:06:06.678763		No of files copied to good_raw_files folder : 35
+2021-06-24	00:06:06.679762		start column length validation!!!
+2021-06-24	00:06:22.794972		start file name validation!!!
+2021-06-24	00:06:22.925890		No of files copied to bad_raw_files folder : 4
+2021-06-24	00:06:22.925890		No of files copied to good_raw_files folder : 35
+2021-06-24	00:06:22.926891		start column length validation!!!
+2021-06-24	00:08:28.345681		start file name validation!!!
+2021-06-24	00:08:28.521570		No of files copied to bad_raw_files folder : 4
+2021-06-24	00:08:28.521570		No of files copied to good_raw_files folder : 35
+2021-06-24	00:08:28.521570		start column length validation!!!
+2021-06-24	00:08:40.139807		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	00:10:30.028619		start file name validation!!!
+2021-06-24	00:10:30.650232		No of files copied to bad_raw_files folder : 4
+2021-06-24	00:10:30.650232		No of files copied to good_raw_files folder : 35
+2021-06-24	00:10:30.650232		start column length validation!!!
+2021-06-24	00:10:34.541554		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	00:13:20.157016		start file name validation!!!
+2021-06-24	00:13:20.644712		No of files copied to bad_raw_files folder : 4
+2021-06-24	00:13:20.645711		No of files copied to good_raw_files folder : 35
+2021-06-24	00:13:20.645711		start column length validation!!!
+2021-06-24	00:13:25.558665		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	00:13:36.711082		start file name validation!!!
+2021-06-24	00:13:36.980915		No of files copied to bad_raw_files folder : 4
+2021-06-24	00:13:36.980915		No of files copied to good_raw_files folder : 35
+2021-06-24	00:13:36.981914		start column length validation!!!
+2021-06-24	00:13:40.488737		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	00:14:32.448287		start file name validation!!!
+2021-06-24	00:14:32.696133		No of files copied to bad_raw_files folder : 4
+2021-06-24	00:14:32.696133		No of files copied to good_raw_files folder : 35
+2021-06-24	00:14:32.697131		start column length validation!!!
+2021-06-24	00:14:36.132436		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	00:14:55.946998		start file name validation!!!
+2021-06-24	00:14:56.266797		No of files copied to bad_raw_files folder : 4
+2021-06-24	00:14:56.266797		No of files copied to good_raw_files folder : 35
+2021-06-24	00:14:56.267798		start column length validation!!!
+2021-06-24	00:14:59.673724		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	00:15:31.340403		start file name validation!!!
+2021-06-24	00:15:31.899057		No of files copied to bad_raw_files folder : 4
+2021-06-24	00:15:31.899057		No of files copied to good_raw_files folder : 35
+2021-06-24	00:15:31.900056		start column length validation!!!
+2021-06-24	00:15:42.839360		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	00:23:09.738824		start file name validation!!!
+2021-06-24	00:23:10.482267		No of files copied to bad_raw_files folder : 4
+2021-06-24	00:23:10.482267		No of files copied to good_raw_files folder : 26
+2021-06-24	00:23:10.483266		start column length validation!!!
+2021-06-24	00:23:22.132428		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	00:25:00.802546		start file name validation!!!
+2021-06-24	00:25:01.575724		No of files copied to bad_raw_files folder : 4
+2021-06-24	00:25:01.575724		No of files copied to good_raw_files folder : 26
+2021-06-24	00:25:01.576723		start column length validation!!!
+2021-06-24	00:25:05.797571		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	00:27:05.901425		start file name validation!!!
+2021-06-24	00:27:06.022353		No of files copied to bad_raw_files folder : 4
+2021-06-24	00:27:06.022353		No of files copied to good_raw_files folder : 26
+2021-06-24	00:27:06.023351		start column length validation!!!
+2021-06-24	00:27:10.449719		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	01:35:41.422949		start file name validation!!!
+2021-06-24	01:35:42.205876		No of files copied to bad_raw_files folder : 4
+2021-06-24	01:35:42.205876		No of files copied to good_raw_files folder : 35
+2021-06-24	01:35:42.206876		start column length validation!!!
+2021-06-24	01:35:54.041603		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	01:41:17.708841		start file name validation!!!
+2021-06-24	01:41:18.875629		No of files copied to bad_raw_files folder : 4
+2021-06-24	01:41:18.875629		No of files copied to good_raw_files folder : 35
+2021-06-24	01:41:18.876628		start column length validation!!!
+2021-06-24	01:41:29.640325		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	01:43:05.441928		start file name validation!!!
+2021-06-24	01:43:05.663789		No of files copied to bad_raw_files folder : 4
+2021-06-24	01:43:05.663789		No of files copied to good_raw_files folder : 35
+2021-06-24	01:43:05.664789		start column length validation!!!
+2021-06-24	01:43:16.881721		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	01:43:43.566256		start file name validation!!!
+2021-06-24	01:43:43.698176		No of files copied to bad_raw_files folder : 4
+2021-06-24	01:43:43.698176		No of files copied to good_raw_files folder : 35
+2021-06-24	01:43:43.699173		start column length validation!!!
+2021-06-24	01:43:54.458762		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	01:44:13.805307		start file name validation!!!
+2021-06-24	01:44:14.015177		No of files copied to bad_raw_files folder : 4
+2021-06-24	01:44:14.015177		No of files copied to good_raw_files folder : 35
+2021-06-24	01:44:14.016177		start column length validation!!!
+2021-06-24	01:44:25.567863		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	01:45:30.958439		start file name validation!!!
+2021-06-24	01:45:31.335477		No of files copied to bad_raw_files folder : 4
+2021-06-24	01:45:31.335477		No of files copied to good_raw_files folder : 35
+2021-06-24	01:45:31.336476		start column length validation!!!
+2021-06-24	01:45:42.602488		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	01:48:03.494115		start file name validation!!!
+2021-06-24	01:48:04.722268		No of files copied to bad_raw_files folder : 4
+2021-06-24	01:48:04.723267		No of files copied to good_raw_files folder : 35
+2021-06-24	01:48:04.723267		start column length validation!!!
+2021-06-24	01:48:15.109452		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	01:54:32.666663		start file name validation!!!
+2021-06-24	01:54:34.378601		No of files copied to bad_raw_files folder : 4
+2021-06-24	01:54:34.378601		No of files copied to good_raw_files folder : 26
+2021-06-24	01:54:34.379600		start column length validation!!!
+2021-06-24	01:54:37.753506		OS Error : [WinError 32] The process cannot access the file because it is being used by another process: 'training_good_&_bad_files_directory/good_raw_files/wafer_13012020_090817.csv'
+2021-06-24	01:55:36.798861		start file name validation!!!
+2021-06-24	01:55:37.201641		No of files copied to bad_raw_files folder : 4
+2021-06-24	01:55:37.202640		No of files copied to good_raw_files folder : 35
+2021-06-24	01:55:37.202640		start column length validation!!!
+2021-06-24	01:55:50.108825		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	02:02:03.061993		start file name validation!!!
+2021-06-24	02:02:03.163929		No of files copied to bad_raw_files folder : 4
+2021-06-24	02:02:03.163929		No of files copied to good_raw_files folder : 26
+2021-06-24	02:02:03.164929		start column length validation!!!
+2021-06-24	02:02:07.148457		No of files moved to bad_raw_files folder after column length validation : 19
+2021-06-24	02:02:49.301171		start file name validation!!!
+2021-06-24	02:02:49.417099		No of files copied to bad_raw_files folder : 4
+2021-06-24	02:02:49.418099		No of files copied to good_raw_files folder : 26
+2021-06-24	02:02:49.418099		start column length validation!!!
+2021-06-24	02:03:00.118781		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	12H-59M-38S		start file name validation!!!
+2021-07-01	12H-59M-40S		No of files copied to bad_raw_files folder : 4
+2021-07-01	12H-59M-40S		No of files copied to good_raw_files folder : 35
+2021-07-01	12H-59M-40S		start column length validation!!!
+2021-07-01	12H-59M-44S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-11M-31S		start file name validation!!!
+2021-07-01	13H-11M-33S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-11M-33S		No of files copied to good_raw_files folder : 28
+2021-07-01	13H-11M-33S		start column length validation!!!
+2021-07-01	13H-11M-40S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-12M-17S		start file name validation!!!
+2021-07-01	13H-12M-17S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-12M-17S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-12M-17S		start column length validation!!!
+2021-07-01	13H-12M-21S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-14M-47S		start file name validation!!!
+2021-07-01	13H-14M-50S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-14M-50S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-14M-50S		start column length validation!!!
+2021-07-01	13H-15M-00S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-18M-00S		start file name validation!!!
+2021-07-01	13H-18M-00S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-18M-00S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-18M-00S		start column length validation!!!
+2021-07-01	13H-18M-03S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-18M-10S		start file name validation!!!
+2021-07-01	13H-18M-10S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-18M-10S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-18M-10S		start column length validation!!!
+2021-07-01	13H-18M-15S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-19M-22S		start file name validation!!!
+2021-07-01	13H-19M-22S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-19M-22S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-19M-22S		start column length validation!!!
+2021-07-01	13H-19M-26S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-23M-12S		start file name validation!!!
+2021-07-01	13H-23M-12S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-23M-12S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-23M-12S		start column length validation!!!
+2021-07-01	13H-23M-17S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-24M-51S		start file name validation!!!
+2021-07-01	13H-24M-51S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-24M-51S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-24M-51S		start column length validation!!!
+2021-07-01	13H-24M-55S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-25M-42S		start file name validation!!!
+2021-07-01	13H-25M-42S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-25M-42S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-25M-42S		start column length validation!!!
+2021-07-01	13H-25M-46S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-28M-15S		start file name validation!!!
+2021-07-01	13H-28M-15S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-28M-15S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-28M-15S		start column length validation!!!
+2021-07-01	13H-28M-19S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-31M-12S		start file name validation!!!
+2021-07-01	13H-31M-14S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-31M-14S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-31M-14S		start column length validation!!!
+2021-07-01	13H-31M-17S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-32M-08S		start file name validation!!!
+2021-07-01	13H-32M-08S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-32M-08S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-32M-08S		start column length validation!!!
+2021-07-01	13H-32M-12S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-32M-55S		start file name validation!!!
+2021-07-01	13H-32M-56S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-32M-56S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-32M-56S		start column length validation!!!
+2021-07-01	13H-32M-59S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-34M-12S		start file name validation!!!
+2021-07-01	13H-34M-12S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-34M-12S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-34M-12S		start column length validation!!!
+2021-07-01	13H-34M-16S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-34M-35S		start file name validation!!!
+2021-07-01	13H-34M-35S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-34M-35S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-34M-35S		start column length validation!!!
+2021-07-01	13H-34M-39S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-35M-17S		start file name validation!!!
+2021-07-01	13H-35M-17S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-35M-17S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-35M-17S		start column length validation!!!
+2021-07-01	13H-35M-21S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-35M-29S		start file name validation!!!
+2021-07-01	13H-35M-29S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-35M-29S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-35M-29S		start column length validation!!!
+2021-07-01	13H-35M-33S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-44M-36S		start file name validation!!!
+2021-07-01	13H-44M-37S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-44M-37S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-44M-37S		start column length validation!!!
+2021-07-01	13H-44M-41S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-46M-19S		start file name validation!!!
+2021-07-01	13H-46M-19S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-46M-19S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-46M-19S		start column length validation!!!
+2021-07-01	13H-46M-23S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-48M-30S		start file name validation!!!
+2021-07-01	13H-48M-30S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-48M-30S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-48M-30S		start column length validation!!!
+2021-07-01	13H-48M-34S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-49M-00S		start file name validation!!!
+2021-07-01	13H-49M-00S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-49M-00S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-49M-00S		start column length validation!!!
+2021-07-01	13H-49M-03S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-49M-39S		start file name validation!!!
+2021-07-01	13H-49M-39S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-49M-39S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-49M-39S		start column length validation!!!
+2021-07-01	13H-49M-43S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-49M-49S		start file name validation!!!
+2021-07-01	13H-49M-49S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-49M-49S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-49M-49S		start column length validation!!!
+2021-07-01	13H-49M-53S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-54M-37S		start file name validation!!!
+2021-07-01	13H-54M-37S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-54M-37S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-54M-37S		start column length validation!!!
+2021-07-01	13H-54M-45S		start file name validation!!!
+2021-07-01	13H-54M-45S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-54M-45S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-54M-45S		start column length validation!!!
+2021-07-01	13H-54M-49S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	13H-55M-30S		start file name validation!!!
+2021-07-01	13H-55M-30S		No of files copied to bad_raw_files folder : 4
+2021-07-01	13H-55M-30S		No of files copied to good_raw_files folder : 35
+2021-07-01	13H-55M-30S		start column length validation!!!
+2021-07-01	13H-55M-34S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	14H-02M-08S		start file name validation!!!
+2021-07-01	14H-02M-09S		No of files copied to bad_raw_files folder : 4
+2021-07-01	14H-02M-09S		No of files copied to good_raw_files folder : 35
+2021-07-01	14H-02M-09S		start column length validation!!!
+2021-07-01	14H-02M-12S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	14H-05M-30S		start file name validation!!!
+2021-07-01	14H-05M-30S		No of files copied to bad_raw_files folder : 4
+2021-07-01	14H-05M-30S		No of files copied to good_raw_files folder : 35
+2021-07-01	14H-05M-30S		start column length validation!!!
+2021-07-01	14H-05M-33S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	14H-06M-21S		start file name validation!!!
+2021-07-01	14H-06M-21S		No of files copied to bad_raw_files folder : 4
+2021-07-01	14H-06M-21S		No of files copied to good_raw_files folder : 35
+2021-07-01	14H-06M-21S		start column length validation!!!
+2021-07-01	14H-06M-25S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	14H-16M-31S		start file name validation!!!
+2021-07-01	14H-16M-31S		No of files copied to bad_raw_files folder : 4
+2021-07-01	14H-16M-31S		No of files copied to good_raw_files folder : 35
+2021-07-01	14H-16M-31S		start column length validation!!!
+2021-07-01	14H-16M-35S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	14H-17M-25S		start file name validation!!!
+2021-07-01	14H-17M-25S		No of files copied to bad_raw_files folder : 4
+2021-07-01	14H-17M-25S		No of files copied to good_raw_files folder : 35
+2021-07-01	14H-17M-25S		start column length validation!!!
+2021-07-01	14H-17M-29S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	14H-18M-16S		start file name validation!!!
+2021-07-01	14H-18M-16S		No of files copied to bad_raw_files folder : 4
+2021-07-01	14H-18M-16S		No of files copied to good_raw_files folder : 35
+2021-07-01	14H-18M-16S		start column length validation!!!
+2021-07-01	14H-18M-20S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	14H-19M-09S		start file name validation!!!
+2021-07-01	14H-19M-09S		No of files copied to bad_raw_files folder : 4
+2021-07-01	14H-19M-09S		No of files copied to good_raw_files folder : 35
+2021-07-01	14H-19M-09S		start column length validation!!!
+2021-07-01	14H-19M-13S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	14H-20M-15S		start file name validation!!!
+2021-07-01	14H-20M-15S		No of files copied to bad_raw_files folder : 4
+2021-07-01	14H-20M-15S		No of files copied to good_raw_files folder : 35
+2021-07-01	14H-20M-15S		start column length validation!!!
+2021-07-01	14H-20M-18S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	18H-39M-35S		start file name validation!!!
+2021-07-01	18H-39M-38S		No of files copied to bad_raw_files folder : 4
+2021-07-01	18H-39M-38S		No of files copied to good_raw_files folder : 35
+2021-07-01	18H-39M-38S		start column length validation!!!
+2021-07-01	18H-39M-43S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	18H-41M-15S		start file name validation!!!
+2021-07-01	18H-41M-15S		No of files copied to bad_raw_files folder : 4
+2021-07-01	18H-41M-15S		No of files copied to good_raw_files folder : 35
+2021-07-01	18H-41M-15S		start column length validation!!!
+2021-07-01	18H-41M-19S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	18H-47M-07S		start file name validation!!!
+2021-07-01	18H-47M-07S		No of files copied to bad_raw_files folder : 4
+2021-07-01	18H-47M-07S		No of files copied to good_raw_files folder : 35
+2021-07-01	18H-47M-07S		start column length validation!!!
+2021-07-01	18H-47M-11S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	18H-47M-21S		start file name validation!!!
+2021-07-01	18H-47M-21S		No of files copied to bad_raw_files folder : 4
+2021-07-01	18H-47M-21S		No of files copied to good_raw_files folder : 35
+2021-07-01	18H-47M-21S		start column length validation!!!
+2021-07-01	18H-47M-26S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	18H-48M-11S		start file name validation!!!
+2021-07-01	18H-48M-11S		No of files copied to bad_raw_files folder : 4
+2021-07-01	18H-48M-11S		No of files copied to good_raw_files folder : 35
+2021-07-01	18H-48M-11S		start column length validation!!!
+2021-07-01	18H-48M-15S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	18H-50M-25S		start file name validation!!!
+2021-07-01	18H-50M-25S		No of files copied to bad_raw_files folder : 4
+2021-07-01	18H-50M-25S		No of files copied to good_raw_files folder : 35
+2021-07-01	18H-50M-25S		start column length validation!!!
+2021-07-01	18H-50M-30S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	18H-51M-21S		start file name validation!!!
+2021-07-01	18H-51M-21S		No of files copied to bad_raw_files folder : 4
+2021-07-01	18H-51M-21S		No of files copied to good_raw_files folder : 35
+2021-07-01	18H-51M-21S		start column length validation!!!
+2021-07-01	18H-51M-25S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	18H-55M-40S		start file name validation!!!
+2021-07-01	18H-55M-40S		No of files copied to bad_raw_files folder : 4
+2021-07-01	18H-55M-40S		No of files copied to good_raw_files folder : 35
+2021-07-01	18H-55M-40S		start column length validation!!!
+2021-07-01	18H-55M-44S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	18H-58M-06S		start file name validation!!!
+2021-07-01	18H-58M-06S		No of files copied to bad_raw_files folder : 4
+2021-07-01	18H-58M-06S		No of files copied to good_raw_files folder : 35
+2021-07-01	18H-58M-06S		start column length validation!!!
+2021-07-01	18H-58M-10S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	18H-59M-11S		start file name validation!!!
+2021-07-01	18H-59M-11S		No of files copied to bad_raw_files folder : 4
+2021-07-01	18H-59M-11S		No of files copied to good_raw_files folder : 35
+2021-07-01	18H-59M-11S		start column length validation!!!
+2021-07-01	18H-59M-15S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	18H-59M-31S		start file name validation!!!
+2021-07-01	18H-59M-31S		No of files copied to bad_raw_files folder : 4
+2021-07-01	18H-59M-31S		No of files copied to good_raw_files folder : 35
+2021-07-01	18H-59M-31S		start column length validation!!!
+2021-07-01	18H-59M-35S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	19H-01M-30S		start file name validation!!!
+2021-07-01	19H-01M-30S		No of files copied to bad_raw_files folder : 4
+2021-07-01	19H-01M-30S		No of files copied to good_raw_files folder : 35
+2021-07-01	19H-01M-30S		start column length validation!!!
+2021-07-01	19H-01M-34S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	19H-04M-31S		start file name validation!!!
+2021-07-01	19H-04M-31S		No of files copied to bad_raw_files folder : 4
+2021-07-01	19H-04M-31S		No of files copied to good_raw_files folder : 35
+2021-07-01	19H-04M-31S		start column length validation!!!
+2021-07-01	19H-04M-35S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	19H-06M-02S		start file name validation!!!
+2021-07-01	19H-06M-02S		No of files copied to bad_raw_files folder : 4
+2021-07-01	19H-06M-02S		No of files copied to good_raw_files folder : 35
+2021-07-01	19H-06M-02S		start column length validation!!!
+2021-07-01	19H-06M-06S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	19H-06M-48S		start file name validation!!!
+2021-07-01	19H-06M-48S		No of files copied to bad_raw_files folder : 4
+2021-07-01	19H-06M-48S		No of files copied to good_raw_files folder : 35
+2021-07-01	19H-06M-48S		start column length validation!!!
+2021-07-01	19H-06M-52S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	19H-07M-33S		start file name validation!!!
+2021-07-01	19H-07M-33S		No of files copied to bad_raw_files folder : 4
+2021-07-01	19H-07M-33S		No of files copied to good_raw_files folder : 35
+2021-07-01	19H-07M-33S		start column length validation!!!
+2021-07-01	19H-07M-38S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	19H-08M-22S		start file name validation!!!
+2021-07-01	19H-08M-23S		No of files copied to bad_raw_files folder : 4
+2021-07-01	19H-08M-23S		No of files copied to good_raw_files folder : 35
+2021-07-01	19H-08M-23S		start column length validation!!!
+2021-07-01	19H-08M-27S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	19H-14M-56S		start file name validation!!!
+2021-07-01	19H-14M-56S		No of files copied to bad_raw_files folder : 4
+2021-07-01	19H-14M-56S		No of files copied to good_raw_files folder : 35
+2021-07-01	19H-14M-56S		start column length validation!!!
+2021-07-01	19H-15M-00S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-01	19H-20M-54S		start file name validation!!!
+2021-07-01	19H-20M-54S		No of files copied to bad_raw_files folder : 4
+2021-07-01	19H-20M-54S		No of files copied to good_raw_files folder : 35
+2021-07-01	19H-20M-54S		start column length validation!!!
+2021-07-01	19H-20M-58S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-09	15H-18M-40S		start file name validation!!!
+2021-07-09	15H-18M-43S		No of files copied to bad_raw_files folder : 4
+2021-07-09	15H-18M-43S		No of files copied to good_raw_files folder : 35
+2021-07-09	15H-18M-43S		start column length validation!!!
+2021-07-09	15H-18M-48S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-11	01H-11M-57S		start file name validation!!!
+2021-07-11	01H-11M-58S		OSError : [Errno 2] No such file or directory: 'training_batch_files/.idea'
+2021-07-11	01H-17M-59S		start file name validation!!!
+2021-07-11	01H-17M-59S		OSError : [Errno 2] No such file or directory: 'training_batch_files/.idea'
+2021-07-11	01H-18M-21S		start file name validation!!!
+2021-07-11	01H-18M-21S		OSError : [Errno 2] No such file or directory: 'training_batch_files/.idea'
+2021-07-11	01H-21M-26S		start file name validation!!!
+2021-07-11	01H-21M-26S		OSError : [Errno 2] No such file or directory: 'training_batch_files/.idea'
+2021-07-11	01H-24M-01S		start file name validation!!!
+2021-07-11	01H-24M-01S		OSError : [Errno 2] No such file or directory: 'training_batch_files/.idea'
+2021-07-11	01H-25M-46S		start file name validation!!!
+2021-07-11	01H-25M-46S		OSError : [Errno 2] No such file or directory: 'training_batch_files/.idea'
+2021-07-11	01H-27M-50S		start file name validation!!!
+2021-07-11	01H-27M-52S		No of files copied to bad_raw_files folder : 4
+2021-07-11	01H-27M-52S		No of files copied to good_raw_files folder : 35
+2021-07-11	01H-27M-52S		start column length validation!!!
+2021-07-11	01H-27M-56S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-11	01H-46M-04S		start file name validation!!!
+2021-07-11	01H-46M-05S		No of files copied to bad_raw_files folder : 4
+2021-07-11	01H-46M-05S		No of files copied to good_raw_files folder : 35
+2021-07-11	01H-46M-05S		start column length validation!!!
+2021-07-11	01H-46M-10S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-11	01H-52M-15S		start file name validation!!!
+2021-07-11	01H-52M-16S		No of files copied to bad_raw_files folder : 4
+2021-07-11	01H-52M-16S		No of files copied to good_raw_files folder : 35
+2021-07-11	01H-52M-16S		start column length validation!!!
+2021-07-11	01H-52M-21S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-11	01H-55M-41S		start file name validation!!!
+2021-07-11	01H-55M-42S		No of files copied to bad_raw_files folder : 4
+2021-07-11	01H-55M-42S		No of files copied to good_raw_files folder : 35
+2021-07-11	01H-55M-42S		start column length validation!!!
+2021-07-11	01H-55M-46S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-11	02H-00M-54S		start file name validation!!!
+2021-07-11	02H-00M-55S		No of files copied to bad_raw_files folder : 4
+2021-07-11	02H-00M-55S		No of files copied to good_raw_files folder : 35
+2021-07-11	02H-00M-55S		start column length validation!!!
+2021-07-11	02H-00M-58S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-11	02H-03M-12S		start file name validation!!!
+2021-07-11	02H-03M-12S		No of files copied to bad_raw_files folder : 4
+2021-07-11	02H-03M-12S		No of files copied to good_raw_files folder : 35
+2021-07-11	02H-03M-12S		start column length validation!!!
+2021-07-11	02H-03M-15S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-11	02H-03M-59S		start file name validation!!!
+2021-07-11	02H-04M-00S		No of files copied to bad_raw_files folder : 4
+2021-07-11	02H-04M-00S		No of files copied to good_raw_files folder : 35
+2021-07-11	02H-04M-00S		start column length validation!!!
+2021-07-11	02H-04M-03S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-11	02H-10M-13S		start file name validation!!!
+2021-07-11	02H-10M-14S		No of files copied to bad_raw_files folder : 4
+2021-07-11	02H-10M-14S		No of files copied to good_raw_files folder : 35
+2021-07-11	02H-10M-14S		start column length validation!!!
+2021-07-11	02H-10M-17S		No of files moved to bad_raw_files folder after column length validation : 19
+2021-07-11	02H-28M-31S		start file name validation!!!
+2021-07-11	02H-28M-32S		No of files copied to bad_raw_files folder : 4
+2021-07-11	02H-28M-32S		No of files copied to good_raw_files folder : 35
+2021-07-11	02H-28M-32S		start column length validation!!!
+2021-07-11	02H-28M-40S		No of files moved to bad_raw_files folder after column length validation : 19

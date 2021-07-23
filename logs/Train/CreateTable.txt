@@ -1,0 +1,88 @@
+2021-07-01	11H-45M-33S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	11H-45M-57S		Table created successfully!!!
+2021-07-01	11H-47M-58S		near "-": syntax error!!!
+2021-07-01	11H-49M-34S		near "-": syntax error!!!
+2021-07-01	11H-49M-58S		near "1": syntax error!!!
+2021-07-01	11H-50M-08S		Table created successfully!!!
+2021-07-01	11H-57M-48S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	13H-28M-26S		Table created successfully!!!
+2021-07-01	13H-31M-23S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	13H-32M-18S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	13H-34M-45S		Table created successfully!!!
+2021-07-01	13H-35M-52S		Table created successfully!!!
+2021-07-01	13H-45M-01S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	13H-46M-41S		Table created successfully!!!
+2021-07-01	13H-49M-59S		Table created successfully!!!
+2021-07-01	14H-05M-53S		Table created successfully!!!
+2021-07-01	14H-06M-43S		Table created successfully!!!
+2021-07-01	14H-16M-55S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	14H-17M-48S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	14H-18M-38S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	14H-19M-32S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	14H-20M-36S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	18H-40M-07S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	18H-41M-41S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	18H-47M-48S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	18H-48M-36S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	18H-50M-53S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	18H-51M-51S		Table created successfully!!!
+2021-07-01	18H-56M-07S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	18H-58M-31S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	18H-59M-57S		Table created successfully!!!
+2021-07-01	19H-02M-00S		Table created successfully!!!
+2021-07-01	19H-04M-56S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	19H-06M-28S		Table created successfully!!!
+2021-07-01	19H-07M-16S		Table created successfully!!!
+2021-07-01	19H-08M-01S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	19H-08M-49S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	19H-11M-47S		Table created successfully!!!
+2021-07-01	19H-12M-34S		Table created successfully!!!
+2021-07-01	19H-15M-23S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	19H-19M-09S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	19H-21M-20S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	19H-23M-38S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	19H-26M-17S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	19H-27M-06S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	19H-27M-45S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	19H-28M-03S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	19H-29M-24S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	19H-30M-09S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	19H-32M-50S		Table created successfully!!!
+2021-07-01	19H-37M-02S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	19H-37M-58S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	19H-38M-28S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	19H-41M-31S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	19H-42M-00S		table GOOD_RAW_DATA already exists!!!
+2021-07-01	19H-46M-33S		Table created successfully!!!
+2021-07-01	19H-51M-02S		Table created successfully!!!
+2021-07-01	19H-51M-34S		Table created successfully!!!
+2021-07-02	11H-56M-45S		Table created successfully!!!
+2021-07-02	12H-10M-02S		list index out of range!!!
+2021-07-02	12H-11M-50S		Table created Successfully!!!
+2021-07-02	12H-26M-32S		Table created Successfully!!!
+2021-07-02	23H-00M-21S		Table created Successfully!!!
+2021-07-02	23H-06M-28S		Table created Successfully!!!
+2021-07-02	23H-09M-27S		Table created Successfully!!!
+2021-07-02	23H-10M-13S		Table created Successfully!!!
+2021-07-02	23H-11M-48S		Table created Successfully!!!
+2021-07-02	23H-12M-55S		Table created Successfully!!!
+2021-07-03	23H-02M-47S		Table created successfully!!!
+2021-07-03	23H-03M-45S		Table created Successfully!!!
+2021-07-03	23H-04M-38S		Table created successfully!!!
+2021-07-03	23H-05M-37S		Table created Successfully!!!
+2021-07-03	23H-09M-18S		Table created Successfully!!!
+2021-07-03	23H-11M-22S		Table created Successfully!!!
+2021-07-03	23H-21M-58S		Table created Successfully!!!
+2021-07-05	23H-26M-12S		Table created successfully!!!
+2021-07-05	23H-40M-21S		Table created Successfully!!!
+2021-07-05	23H-42M-08S		Table created Successfully!!!
+2021-07-09	15H-19M-17S		Table created Successfully!!!
+2021-07-11	01H-28M-19S		Table created Successfully!!!
+2021-07-11	01H-46M-48S		Table created Successfully!!!
+2021-07-11	01H-52M-41S		Table created Successfully!!!
+2021-07-11	01H-56M-05S		Table created Successfully!!!
+2021-07-11	02H-01M-18S		Table created Successfully!!!
+2021-07-11	02H-03M-35S		Table created Successfully!!!
+2021-07-11	02H-04M-22S		Table created Successfully!!!
+2021-07-11	02H-10M-37S		Table created Successfully!!!
+2021-07-11	02H-29M-04S		Table created Successfully!!!

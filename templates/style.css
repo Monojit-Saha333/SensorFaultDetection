@@ -1,0 +1,15 @@
+#navigator {
+    background-color: #e7008a;
+    border: 1px solid #e7008a;
+}
+
+.table {
+    border-top: 10px solid #e7008a;
+    border-collapse: separate;
+    border-radius: 10px;
+}
+
+.container-lg,
+h1 {
+    text-align: center;
+}

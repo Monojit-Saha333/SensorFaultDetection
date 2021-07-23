@@ -1,0 +1,431 @@
+2021-06-22	23:02:41.801502		making raw file directory !!!
+2021-06-22	23:02:41.820489		good_raw_files directory created for storing good raw files
+2021-06-22	23:02:41.821488		bad_raw_files directory created for stored bad  files
+2021-06-22	23:04:02.709793		making raw file directory !!!
+2021-06-22	23:04:02.726782		good_raw_files directory created for storing good raw files
+2021-06-22	23:04:02.727781		bad_raw_files directory created for stored bad  files
+2021-06-22	23:04:47.730437		making raw file directory !!!
+2021-06-22	23:04:47.739431		good_raw_files directory created for storing good raw files
+2021-06-22	23:04:47.740430		bad_raw_files directory created for stored bad  files
+2021-06-22	23:06:40.311956		making raw file directory !!!
+2021-06-22	23:06:40.329945		good_raw_files directory created for storing good raw files
+2021-06-22	23:06:40.330943		bad_raw_files directory created for stored bad  files
+2021-06-22	23:08:22.450673		30 of 30transfered to archives
+2021-06-22	23:17:41.253614		making raw file directory !!!
+2021-06-22	23:17:41.307320		good_raw_files directory created for storing good raw files
+2021-06-22	23:17:41.308322		bad_raw_files directory created for stored bad  files
+2021-06-22	23:17:54.847948		30 of 30transfered to archives
+2021-06-23	12:19:34.359617		making raw file directory !!!
+2021-06-23	12:19:34.422168		good_raw_files directory created for storing good raw files
+2021-06-23	12:19:34.532902		bad_raw_files directory created for stored bad  files
+2021-06-23	12:19:57.023068		30 of 30transfered to archives
+2021-06-23	12:33:30.061055		making raw file directory !!!
+2021-06-23	12:33:30.122873		good_raw_files directory created for storing good raw files
+2021-06-23	12:33:30.123877		bad_raw_files directory created for stored bad  files
+2021-06-23	12:35:17.054965		30 of 30transfered to archives
+2021-06-23	12:37:37.955083		making raw file directory !!!
+2021-06-23	12:37:37.995056		good_raw_files directory created for storing good raw files
+2021-06-23	12:37:37.996058		bad_raw_files directory created for stored bad  files
+2021-06-23	12:37:48.791823		30 of 30transfered to archives
+2021-06-23	12:38:46.213854		making raw file directory !!!
+2021-06-23	12:38:46.222846		good_raw_files directory created for storing good raw files
+2021-06-23	12:38:46.223846		bad_raw_files directory created for stored bad  files
+2021-06-23	12:38:56.618128		30 of 30transfered to archives
+2021-06-23	14:16:16.649390		making raw file directory !!!
+2021-06-23	14:16:16.692782		bad_raw_files directory created for stored bad  files
+2021-06-23	14:16:24.398481		30 of 30transfered to archives
+2021-06-23	14:17:35.427607		making raw file directory !!!
+2021-06-23	14:17:35.435605		good_raw_files directory created for storing good raw files
+2021-06-23	14:17:35.436602		bad_raw_files directory created for stored bad  files
+2021-06-23	14:17:41.055470		30 of 30transfered to archives
+2021-06-23	14:19:18.848898		making raw file directory !!!
+2021-06-23	14:19:18.857893		good_raw_files directory created for storing good raw files
+2021-06-23	14:19:18.858892		bad_raw_files directory created for stored bad  files
+2021-06-23	14:19:24.590457		30 of 30transfered to archives
+2021-06-23	14:20:25.928781		making raw file directory !!!
+2021-06-23	14:20:25.980747		good_raw_files directory created for storing good raw files
+2021-06-23	14:20:25.981747		bad_raw_files directory created for stored bad  files
+2021-06-23	14:20:31.528741		30 of 30transfered to archives
+2021-06-23	14:22:29.890999		making raw file directory !!!
+2021-06-23	14:22:29.939969		good_raw_files directory created for storing good raw files
+2021-06-23	14:22:29.940970		bad_raw_files directory created for stored bad  files
+2021-06-23	14:22:36.119372		30 of 30transfered to archives
+2021-06-23	14:22:44.967126		making raw file directory !!!
+2021-06-23	14:22:44.975122		good_raw_files directory created for storing good raw files
+2021-06-23	14:22:44.977120		bad_raw_files directory created for stored bad  files
+2021-06-23	14:22:50.266195		30 of 30transfered to archives
+2021-06-23	14:23:09.863083		making raw file directory !!!
+2021-06-23	14:23:09.872076		good_raw_files directory created for storing good raw files
+2021-06-23	14:23:09.873076		bad_raw_files directory created for stored bad  files
+2021-06-23	14:23:32.521732		making raw file directory !!!
+2021-06-23	14:23:32.537723		good_raw_files directory created for storing good raw files
+2021-06-23	14:23:32.538722		bad_raw_files directory created for stored bad  files
+2021-06-23	14:23:38.005397		30 of 30transfered to archives
+2021-06-24	00:02:00.007185		making raw file directory !!!
+2021-06-24	00:02:00.046068		good_raw_files directory created for storing good raw files
+2021-06-24	00:02:00.056389		bad_raw_files directory created for stored bad  files
+2021-06-24	00:02:07.510071		30 of 30transfered to archives
+2021-06-24	00:03:51.479697		making raw file directory !!!
+2021-06-24	00:03:51.487693		good_raw_files directory created for storing good raw files
+2021-06-24	00:03:51.487693		bad_raw_files directory created for stored bad  files
+2021-06-24	00:04:09.638330		30 of 30transfered to archives
+2021-06-24	00:05:04.649660		making raw file directory !!!
+2021-06-24	00:05:04.657656		good_raw_files directory created for storing good raw files
+2021-06-24	00:05:04.658653		bad_raw_files directory created for stored bad  files
+2021-06-24	00:05:23.980682		30 of 30transfered to archives
+2021-06-24	00:05:43.323619		making raw file directory !!!
+2021-06-24	00:05:43.331617		good_raw_files directory created for storing good raw files
+2021-06-24	00:05:43.332614		bad_raw_files directory created for stored bad  files
+2021-06-24	00:06:06.526857		making raw file directory !!!
+2021-06-24	00:06:06.540849		good_raw_files directory created for storing good raw files
+2021-06-24	00:06:06.542846		bad_raw_files directory created for stored bad  files
+2021-06-24	00:06:22.823954		making raw file directory !!!
+2021-06-24	00:06:22.834946		good_raw_files directory created for storing good raw files
+2021-06-24	00:06:22.835945		bad_raw_files directory created for stored bad  files
+2021-06-24	00:08:28.360670		making raw file directory !!!
+2021-06-24	00:08:28.369667		good_raw_files directory created for storing good raw files
+2021-06-24	00:08:28.370664		bad_raw_files directory created for stored bad  files
+2021-06-24	00:08:48.375543		30 of 30transfered to archives
+2021-06-24	00:10:30.048607		making raw file directory !!!
+2021-06-24	00:10:30.108569		good_raw_files directory created for storing good raw files
+2021-06-24	00:10:30.109569		bad_raw_files directory created for stored bad  files
+2021-06-24	00:10:36.215448		30 of 30transfered to archives
+2021-06-24	00:13:20.164012		making raw file directory !!!
+2021-06-24	00:13:20.174004		good_raw_files directory created for storing good raw files
+2021-06-24	00:13:20.174004		bad_raw_files directory created for stored bad  files
+2021-06-24	00:13:27.835028		30 of 30transfered to archives
+2021-06-24	00:13:36.716079		making raw file directory !!!
+2021-06-24	00:13:36.727072		good_raw_files directory created for storing good raw files
+2021-06-24	00:13:36.728072		bad_raw_files directory created for stored bad  files
+2021-06-24	00:13:42.779708		30 of 30transfered to archives
+2021-06-24	00:14:32.453283		making raw file directory !!!
+2021-06-24	00:14:32.464276		good_raw_files directory created for storing good raw files
+2021-06-24	00:14:32.465277		bad_raw_files directory created for stored bad  files
+2021-06-24	00:14:37.738438		30 of 30transfered to archives
+2021-06-24	00:14:55.954993		making raw file directory !!!
+2021-06-24	00:14:55.970982		good_raw_files directory created for storing good raw files
+2021-06-24	00:14:55.971982		bad_raw_files directory created for stored bad  files
+2021-06-24	00:15:01.387615		30 of 30transfered to archives
+2021-06-24	00:15:31.346403		making raw file directory !!!
+2021-06-24	00:15:31.354397		good_raw_files directory created for storing good raw files
+2021-06-24	00:15:31.355396		bad_raw_files directory created for stored bad  files
+2021-06-24	00:15:49.819379		30 of 30transfered to archives
+2021-06-24	00:23:09.761808		making raw file directory !!!
+2021-06-24	00:23:09.844755		bad_raw_files directory created for stored bad  files
+2021-06-24	00:23:28.995431		30 of 30transfered to archives
+2021-06-24	00:25:00.806545		making raw file directory !!!
+2021-06-24	00:25:00.831528		bad_raw_files directory created for stored bad  files
+2021-06-24	00:25:07.894429		30 of 30transfered to archives
+2021-06-24	00:27:05.903425		making raw file directory !!!
+2021-06-24	00:27:05.913418		bad_raw_files directory created for stored bad  files
+2021-06-24	00:27:12.434035		30 of 30transfered to archives
+2021-06-24	01:35:41.428948		making raw file directory !!!
+2021-06-24	01:35:41.445934		good_raw_files directory created for storing good raw files
+2021-06-24	01:35:41.446936		bad_raw_files directory created for stored bad  files
+2021-06-24	01:36:00.261964		30 of 30transfered to archives
+2021-06-24	01:41:17.742820		making raw file directory !!!
+2021-06-24	01:41:17.787791		good_raw_files directory created for storing good raw files
+2021-06-24	01:41:17.788791		bad_raw_files directory created for stored bad  files
+2021-06-24	01:41:36.060682		30 of 30transfered to archives
+2021-06-24	01:43:05.446924		making raw file directory !!!
+2021-06-24	01:43:05.455920		good_raw_files directory created for storing good raw files
+2021-06-24	01:43:05.456920		bad_raw_files directory created for stored bad  files
+2021-06-24	01:43:23.538726		30 of 30transfered to archives
+2021-06-24	01:43:43.572253		making raw file directory !!!
+2021-06-24	01:43:43.580247		good_raw_files directory created for storing good raw files
+2021-06-24	01:43:43.581247		bad_raw_files directory created for stored bad  files
+2021-06-24	01:44:01.842180		30 of 30transfered to archives
+2021-06-24	01:44:13.811305		making raw file directory !!!
+2021-06-24	01:44:13.823297		good_raw_files directory created for storing good raw files
+2021-06-24	01:44:13.824297		bad_raw_files directory created for stored bad  files
+2021-06-24	01:44:32.467659		30 of 30transfered to archives
+2021-06-24	01:45:30.964436		making raw file directory !!!
+2021-06-24	01:45:30.973430		good_raw_files directory created for storing good raw files
+2021-06-24	01:45:30.975429		bad_raw_files directory created for stored bad  files
+2021-06-24	01:45:49.479870		30 of 30transfered to archives
+2021-06-24	01:48:03.552078		making raw file directory !!!
+2021-06-24	01:48:03.624032		good_raw_files directory created for storing good raw files
+2021-06-24	01:48:03.643021		bad_raw_files directory created for stored bad  files
+2021-06-24	01:48:22.663437		30 of 30transfered to archives
+2021-06-24	01:54:32.697643		making raw file directory !!!
+2021-06-24	01:54:32.705640		bad_raw_files directory created for stored bad  files
+2021-06-24	01:55:36.814850		making raw file directory !!!
+2021-06-24	01:55:36.823844		good_raw_files directory created for storing good raw files
+2021-06-24	01:55:36.824844		bad_raw_files directory created for stored bad  files
+2021-06-24	01:55:57.283823		30 of 30transfered to archives
+2021-06-24	02:02:03.063993		making raw file directory !!!
+2021-06-24	02:02:03.073985		bad_raw_files directory created for stored bad  files
+2021-06-24	02:02:08.919795		30 of 30transfered to archives
+2021-06-24	02:02:49.304169		making raw file directory !!!
+2021-06-24	02:02:49.313166		bad_raw_files directory created for stored bad  files
+2021-06-24	02:03:07.187539		30 of 30transfered to archives
+2021-07-01	12H-59M-39S		making raw file directory !!!
+2021-07-01	12H-59M-39S		good_raw_files directory created for storing good raw files
+2021-07-01	12H-59M-39S		bad_raw_files directory created for stored bad  files
+2021-07-01	12H-59M-46S		30 of 30transfered to archives
+2021-07-01	13H-11M-31S		making raw file directory !!!
+2021-07-01	13H-11M-31S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-11M-42S		30 of 30transfered to archives
+2021-07-01	13H-12M-17S		making raw file directory !!!
+2021-07-01	13H-12M-17S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-12M-17S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-12M-23S		30 of 30transfered to archives
+2021-07-01	13H-14M-47S		making raw file directory !!!
+2021-07-01	13H-14M-47S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-14M-47S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-15M-06S		30 of 30transfered to archives
+2021-07-01	13H-18M-00S		making raw file directory !!!
+2021-07-01	13H-18M-00S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-18M-00S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-18M-05S		30 of 30transfered to archives
+2021-07-01	13H-18M-10S		making raw file directory !!!
+2021-07-01	13H-18M-10S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-18M-10S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-18M-17S		30 of 30transfered to archives
+2021-07-01	13H-19M-22S		making raw file directory !!!
+2021-07-01	13H-19M-22S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-19M-22S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-19M-28S		30 of 30transfered to archives
+2021-07-01	13H-23M-12S		making raw file directory !!!
+2021-07-01	13H-23M-12S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-23M-12S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-23M-18S		30 of 30transfered to archives
+2021-07-01	13H-24M-51S		making raw file directory !!!
+2021-07-01	13H-24M-51S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-24M-51S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-24M-57S		30 of 30transfered to archives
+2021-07-01	13H-25M-42S		making raw file directory !!!
+2021-07-01	13H-25M-42S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-25M-42S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-25M-48S		30 of 30transfered to archives
+2021-07-01	13H-28M-15S		making raw file directory !!!
+2021-07-01	13H-28M-15S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-28M-15S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-28M-21S		30 of 30transfered to archives
+2021-07-01	13H-31M-12S		making raw file directory !!!
+2021-07-01	13H-31M-12S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-31M-12S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-31M-19S		30 of 30transfered to archives
+2021-07-01	13H-32M-08S		making raw file directory !!!
+2021-07-01	13H-32M-08S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-32M-08S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-32M-14S		30 of 30transfered to archives
+2021-07-01	13H-32M-55S		making raw file directory !!!
+2021-07-01	13H-32M-55S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-32M-55S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-33M-01S		30 of 30transfered to archives
+2021-07-01	13H-34M-12S		making raw file directory !!!
+2021-07-01	13H-34M-12S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-34M-12S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-34M-18S		30 of 30transfered to archives
+2021-07-01	13H-34M-35S		making raw file directory !!!
+2021-07-01	13H-34M-35S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-34M-35S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-34M-40S		30 of 30transfered to archives
+2021-07-01	13H-35M-17S		making raw file directory !!!
+2021-07-01	13H-35M-17S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-35M-17S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-35M-23S		30 of 30transfered to archives
+2021-07-01	13H-35M-29S		making raw file directory !!!
+2021-07-01	13H-35M-29S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-35M-29S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-35M-35S		30 of 30transfered to archives
+2021-07-01	13H-44M-36S		making raw file directory !!!
+2021-07-01	13H-44M-36S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-44M-36S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-44M-43S		30 of 30transfered to archives
+2021-07-01	13H-46M-19S		making raw file directory !!!
+2021-07-01	13H-46M-19S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-46M-19S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-46M-25S		30 of 30transfered to archives
+2021-07-01	13H-48M-30S		making raw file directory !!!
+2021-07-01	13H-48M-30S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-48M-30S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-48M-36S		30 of 30transfered to archives
+2021-07-01	13H-49M-00S		making raw file directory !!!
+2021-07-01	13H-49M-00S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-49M-00S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-49M-05S		30 of 30transfered to archives
+2021-07-01	13H-49M-39S		making raw file directory !!!
+2021-07-01	13H-49M-39S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-49M-39S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-49M-49S		making raw file directory !!!
+2021-07-01	13H-49M-49S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-49M-49S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-49M-54S		30 of 30transfered to archives
+2021-07-01	13H-54M-37S		making raw file directory !!!
+2021-07-01	13H-54M-37S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-54M-37S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-54M-45S		making raw file directory !!!
+2021-07-01	13H-54M-45S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-54M-45S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-54M-51S		30 of 30transfered to archives
+2021-07-01	13H-55M-30S		making raw file directory !!!
+2021-07-01	13H-55M-30S		good_raw_files directory created for storing good raw files
+2021-07-01	13H-55M-30S		bad_raw_files directory created for stored bad  files
+2021-07-01	13H-55M-36S		30 of 30transfered to archives
+2021-07-01	14H-02M-08S		making raw file directory !!!
+2021-07-01	14H-02M-08S		good_raw_files directory created for storing good raw files
+2021-07-01	14H-02M-08S		bad_raw_files directory created for stored bad  files
+2021-07-01	14H-02M-14S		30 of 30transfered to archives
+2021-07-01	14H-05M-30S		making raw file directory !!!
+2021-07-01	14H-05M-30S		good_raw_files directory created for storing good raw files
+2021-07-01	14H-05M-30S		bad_raw_files directory created for stored bad  files
+2021-07-01	14H-05M-35S		30 of 30transfered to archives
+2021-07-01	14H-06M-21S		making raw file directory !!!
+2021-07-01	14H-06M-21S		good_raw_files directory created for storing good raw files
+2021-07-01	14H-06M-21S		bad_raw_files directory created for stored bad  files
+2021-07-01	14H-06M-27S		30 of 30transfered to archives
+2021-07-01	14H-16M-31S		making raw file directory !!!
+2021-07-01	14H-16M-31S		good_raw_files directory created for storing good raw files
+2021-07-01	14H-16M-31S		bad_raw_files directory created for stored bad  files
+2021-07-01	14H-16M-37S		30 of 30transfered to archives
+2021-07-01	14H-17M-25S		making raw file directory !!!
+2021-07-01	14H-17M-25S		good_raw_files directory created for storing good raw files
+2021-07-01	14H-17M-25S		bad_raw_files directory created for stored bad  files
+2021-07-01	14H-17M-31S		30 of 30transfered to archives
+2021-07-01	14H-18M-16S		making raw file directory !!!
+2021-07-01	14H-18M-16S		good_raw_files directory created for storing good raw files
+2021-07-01	14H-18M-16S		bad_raw_files directory created for stored bad  files
+2021-07-01	14H-18M-22S		30 of 30transfered to archives
+2021-07-01	14H-19M-09S		making raw file directory !!!
+2021-07-01	14H-19M-09S		good_raw_files directory created for storing good raw files
+2021-07-01	14H-19M-09S		bad_raw_files directory created for stored bad  files
+2021-07-01	14H-19M-15S		30 of 30transfered to archives
+2021-07-01	14H-20M-15S		making raw file directory !!!
+2021-07-01	14H-20M-15S		good_raw_files directory created for storing good raw files
+2021-07-01	14H-20M-15S		bad_raw_files directory created for stored bad  files
+2021-07-01	14H-20M-20S		30 of 30transfered to archives
+2021-07-01	18H-39M-35S		making raw file directory !!!
+2021-07-01	18H-39M-35S		good_raw_files directory created for storing good raw files
+2021-07-01	18H-39M-35S		bad_raw_files directory created for stored bad  files
+2021-07-01	18H-39M-45S		30 of 30transfered to archives
+2021-07-01	18H-41M-15S		making raw file directory !!!
+2021-07-01	18H-41M-15S		good_raw_files directory created for storing good raw files
+2021-07-01	18H-41M-15S		bad_raw_files directory created for stored bad  files
+2021-07-01	18H-41M-22S		30 of 30transfered to archives
+2021-07-01	18H-47M-07S		making raw file directory !!!
+2021-07-01	18H-47M-07S		good_raw_files directory created for storing good raw files
+2021-07-01	18H-47M-07S		bad_raw_files directory created for stored bad  files
+2021-07-01	18H-47M-21S		making raw file directory !!!
+2021-07-01	18H-47M-21S		good_raw_files directory created for storing good raw files
+2021-07-01	18H-47M-21S		bad_raw_files directory created for stored bad  files
+2021-07-01	18H-47M-28S		30 of 30transfered to archives
+2021-07-01	18H-48M-11S		making raw file directory !!!
+2021-07-01	18H-48M-11S		good_raw_files directory created for storing good raw files
+2021-07-01	18H-48M-11S		bad_raw_files directory created for stored bad  files
+2021-07-01	18H-48M-17S		30 of 30transfered to archives
+2021-07-01	18H-50M-25S		making raw file directory !!!
+2021-07-01	18H-50M-25S		good_raw_files directory created for storing good raw files
+2021-07-01	18H-50M-25S		bad_raw_files directory created for stored bad  files
+2021-07-01	18H-50M-32S		30 of 30transfered to archives
+2021-07-01	18H-51M-21S		making raw file directory !!!
+2021-07-01	18H-51M-21S		good_raw_files directory created for storing good raw files
+2021-07-01	18H-51M-21S		bad_raw_files directory created for stored bad  files
+2021-07-01	18H-51M-27S		30 of 30transfered to archives
+2021-07-01	18H-55M-40S		making raw file directory !!!
+2021-07-01	18H-55M-40S		good_raw_files directory created for storing good raw files
+2021-07-01	18H-55M-40S		bad_raw_files directory created for stored bad  files
+2021-07-01	18H-55M-47S		30 of 30transfered to archives
+2021-07-01	18H-58M-06S		making raw file directory !!!
+2021-07-01	18H-58M-06S		good_raw_files directory created for storing good raw files
+2021-07-01	18H-58M-06S		bad_raw_files directory created for stored bad  files
+2021-07-01	18H-58M-12S		30 of 30transfered to archives
+2021-07-01	18H-59M-11S		making raw file directory !!!
+2021-07-01	18H-59M-11S		good_raw_files directory created for storing good raw files
+2021-07-01	18H-59M-11S		bad_raw_files directory created for stored bad  files
+2021-07-01	18H-59M-17S		30 of 30transfered to archives
+2021-07-01	18H-59M-31S		making raw file directory !!!
+2021-07-01	18H-59M-31S		good_raw_files directory created for storing good raw files
+2021-07-01	18H-59M-31S		bad_raw_files directory created for stored bad  files
+2021-07-01	18H-59M-37S		30 of 30transfered to archives
+2021-07-01	19H-01M-30S		making raw file directory !!!
+2021-07-01	19H-01M-30S		good_raw_files directory created for storing good raw files
+2021-07-01	19H-01M-30S		bad_raw_files directory created for stored bad  files
+2021-07-01	19H-01M-37S		30 of 30transfered to archives
+2021-07-01	19H-04M-31S		making raw file directory !!!
+2021-07-01	19H-04M-31S		good_raw_files directory created for storing good raw files
+2021-07-01	19H-04M-31S		bad_raw_files directory created for stored bad  files
+2021-07-01	19H-04M-37S		30 of 30transfered to archives
+2021-07-01	19H-06M-02S		making raw file directory !!!
+2021-07-01	19H-06M-02S		good_raw_files directory created for storing good raw files
+2021-07-01	19H-06M-02S		bad_raw_files directory created for stored bad  files
+2021-07-01	19H-06M-08S		30 of 30transfered to archives
+2021-07-01	19H-06M-48S		making raw file directory !!!
+2021-07-01	19H-06M-48S		good_raw_files directory created for storing good raw files
+2021-07-01	19H-06M-48S		bad_raw_files directory created for stored bad  files
+2021-07-01	19H-06M-54S		30 of 30transfered to archives
+2021-07-01	19H-07M-33S		making raw file directory !!!
+2021-07-01	19H-07M-33S		good_raw_files directory created for storing good raw files
+2021-07-01	19H-07M-33S		bad_raw_files directory created for stored bad  files
+2021-07-01	19H-07M-40S		30 of 30transfered to archives
+2021-07-01	19H-08M-23S		making raw file directory !!!
+2021-07-01	19H-08M-23S		good_raw_files directory created for storing good raw files
+2021-07-01	19H-08M-23S		bad_raw_files directory created for stored bad  files
+2021-07-01	19H-08M-30S		30 of 30transfered to archives
+2021-07-01	19H-14M-56S		making raw file directory !!!
+2021-07-01	19H-14M-56S		good_raw_files directory created for storing good raw files
+2021-07-01	19H-14M-56S		bad_raw_files directory created for stored bad  files
+2021-07-01	19H-15M-03S		30 of 30transfered to archives
+2021-07-01	19H-20M-54S		making raw file directory !!!
+2021-07-01	19H-20M-54S		good_raw_files directory created for storing good raw files
+2021-07-01	19H-20M-54S		bad_raw_files directory created for stored bad  files
+2021-07-01	19H-21M-00S		30 of 30transfered to archives
+2021-07-09	15H-18M-40S		making raw file directory !!!
+2021-07-09	15H-18M-40S		good_raw_files directory created for storing good raw files
+2021-07-09	15H-18M-40S		bad_raw_files directory created for stored bad  files
+2021-07-09	15H-18M-51S		30 of 30transfered to archives
+2021-07-11	01H-11M-58S		making raw file directory !!!
+2021-07-11	01H-11M-58S		good_raw_files directory created for storing good raw files
+2021-07-11	01H-11M-58S		bad_raw_files directory created for stored bad  files
+2021-07-11	01H-17M-59S		making raw file directory !!!
+2021-07-11	01H-17M-59S		good_raw_files directory created for storing good raw files
+2021-07-11	01H-17M-59S		bad_raw_files directory created for stored bad  files
+2021-07-11	01H-18M-21S		making raw file directory !!!
+2021-07-11	01H-18M-21S		good_raw_files directory created for storing good raw files
+2021-07-11	01H-18M-21S		bad_raw_files directory created for stored bad  files
+2021-07-11	01H-21M-26S		making raw file directory !!!
+2021-07-11	01H-21M-26S		good_raw_files directory created for storing good raw files
+2021-07-11	01H-21M-26S		bad_raw_files directory created for stored bad  files
+2021-07-11	01H-24M-01S		making raw file directory !!!
+2021-07-11	01H-24M-01S		good_raw_files directory created for storing good raw files
+2021-07-11	01H-24M-01S		bad_raw_files directory created for stored bad  files
+2021-07-11	01H-25M-46S		making raw file directory !!!
+2021-07-11	01H-25M-46S		good_raw_files directory created for storing good raw files
+2021-07-11	01H-25M-46S		bad_raw_files directory created for stored bad  files
+2021-07-11	01H-27M-50S		making raw file directory !!!
+2021-07-11	01H-27M-50S		good_raw_files directory created for storing good raw files
+2021-07-11	01H-27M-50S		bad_raw_files directory created for stored bad  files
+2021-07-11	01H-27M-58S		30 of 30transfered to archives
+2021-07-11	01H-46M-04S		making raw file directory !!!
+2021-07-11	01H-46M-04S		good_raw_files directory created for storing good raw files
+2021-07-11	01H-46M-04S		bad_raw_files directory created for stored bad  files
+2021-07-11	01H-46M-13S		30 of 30transfered to archives
+2021-07-11	01H-52M-15S		making raw file directory !!!
+2021-07-11	01H-52M-15S		good_raw_files directory created for storing good raw files
+2021-07-11	01H-52M-15S		bad_raw_files directory created for stored bad  files
+2021-07-11	01H-52M-23S		30 of 30transfered to archives
+2021-07-11	01H-55M-41S		making raw file directory !!!
+2021-07-11	01H-55M-41S		good_raw_files directory created for storing good raw files
+2021-07-11	01H-55M-41S		bad_raw_files directory created for stored bad  files
+2021-07-11	01H-55M-47S		30 of 30transfered to archives
+2021-07-11	02H-00M-54S		making raw file directory !!!
+2021-07-11	02H-00M-54S		good_raw_files directory created for storing good raw files
+2021-07-11	02H-00M-54S		bad_raw_files directory created for stored bad  files
+2021-07-11	02H-01M-00S		30 of 30transfered to archives
+2021-07-11	02H-03M-12S		making raw file directory !!!
+2021-07-11	02H-03M-12S		good_raw_files directory created for storing good raw files
+2021-07-11	02H-03M-12S		bad_raw_files directory created for stored bad  files
+2021-07-11	02H-03M-17S		30 of 30transfered to archives
+2021-07-11	02H-03M-59S		making raw file directory !!!
+2021-07-11	02H-03M-59S		good_raw_files directory created for storing good raw files
+2021-07-11	02H-03M-59S		bad_raw_files directory created for stored bad  files
+2021-07-11	02H-04M-05S		30 of 30transfered to archives
+2021-07-11	02H-10M-13S		making raw file directory !!!
+2021-07-11	02H-10M-13S		good_raw_files directory created for storing good raw files
+2021-07-11	02H-10M-13S		bad_raw_files directory created for stored bad  files
+2021-07-11	02H-10M-19S		30 of 30transfered to archives
+2021-07-11	02H-28M-31S		making raw file directory !!!
+2021-07-11	02H-28M-31S		good_raw_files directory created for storing good raw files
+2021-07-11	02H-28M-31S		bad_raw_files directory created for stored bad  files
+2021-07-11	02H-28M-43S		30 of 30transfered to archives

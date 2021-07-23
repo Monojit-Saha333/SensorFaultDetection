@@ -1,0 +1,1662 @@
+2021-06-22	13:14:08.289447		schema validation started!!!
+2021-06-22	13:14:08.377392		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-22	22:56:24.823117		schema validation started!!!
+2021-06-22	22:56:24.877859		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-22	22:58:10.868462		schema validation started!!!
+2021-06-22	22:58:10.888449		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-22	22:59:03.844171		schema validation started!!!
+2021-06-22	22:59:03.865156		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-22	22:59:15.172849		schema validation started!!!
+2021-06-22	22:59:15.223816		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-22	23:00:16.465226		schema validation started!!!
+2021-06-22	23:00:16.486652		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-22	23:02:41.759528		schema validation started!!!
+2021-06-22	23:02:41.785509		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-22	23:04:02.676814		schema validation started!!!
+2021-06-22	23:04:02.694801		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-22	23:04:47.695459		schema validation started!!!
+2021-06-22	23:04:47.711447		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-22	23:06:40.280975		schema validation started!!!
+2021-06-22	23:06:40.297965		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-22	23:17:41.139545		schema validation started!!!
+2021-06-22	23:17:41.200648		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-23	12:19:32.774619		schema validation started!!!
+2021-06-23	12:19:33.212608		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-23	12:33:29.939174		schema validation started!!!
+2021-06-23	12:33:29.991099		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-23	12:37:37.931097		schema validation started!!!
+2021-06-23	12:37:37.950087		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-23	12:38:46.183870		schema validation started!!!
+2021-06-23	12:38:46.202859		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-23	14:16:16.433858		schema validation started!!!
+2021-06-23	14:16:16.499817		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-23	14:17:35.406620		schema validation started!!!
+2021-06-23	14:17:35.422610		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-23	14:19:18.824910		schema validation started!!!
+2021-06-23	14:19:18.843901		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-23	14:20:25.908794		schema validation started!!!
+2021-06-23	14:20:25.926781		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-23	14:22:29.867013		schema validation started!!!
+2021-06-23	14:22:29.886003		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-23	14:22:44.943139		schema validation started!!!
+2021-06-23	14:22:44.962129		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-23	14:23:09.839097		schema validation started!!!
+2021-06-23	14:23:09.857086		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-23	14:23:32.493752		schema validation started!!!
+2021-06-23	14:23:32.507742		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	00:01:59.806425		schema validation started!!!
+2021-06-24	00:01:59.846400		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	00:03:51.456711		schema validation started!!!
+2021-06-24	00:03:51.473700		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	00:05:04.626674		schema validation started!!!
+2021-06-24	00:05:04.643663		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	00:05:43.301634		schema validation started!!!
+2021-06-24	00:05:43.318622		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	00:06:06.483883		schema validation started!!!
+2021-06-24	00:06:06.506868		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	00:06:22.766988		schema validation started!!!
+2021-06-24	00:06:22.793971		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	00:08:28.328692		schema validation started!!!
+2021-06-24	00:08:28.345681		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	00:10:29.958663		schema validation started!!!
+2021-06-24	00:10:30.026621		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	00:13:20.120039		schema validation started!!!
+2021-06-24	00:13:20.156017		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	00:13:36.662114		schema validation started!!!
+2021-06-24	00:13:36.711082		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	00:14:32.407312		schema validation started!!!
+2021-06-24	00:14:32.447286		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	00:14:55.880038		schema validation started!!!
+2021-06-24	00:14:55.944999		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	00:15:31.324415		schema validation started!!!
+2021-06-24	00:15:31.340403		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	00:23:09.670725		schema validation started!!!
+2021-06-24	00:23:09.738824		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	00:25:00.719597		schema validation started!!!
+2021-06-24	00:25:00.800546		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	00:27:05.861451		schema validation started!!!
+2021-06-24	00:27:05.901425		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	01:35:41.396965		schema validation started!!!
+2021-06-24	01:35:41.422949		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	01:41:17.645095		schema validation started!!!
+2021-06-24	01:41:17.707841		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	01:43:05.423938		schema validation started!!!
+2021-06-24	01:43:05.440927		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	01:43:43.549267		schema validation started!!!
+2021-06-24	01:43:43.566256		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	01:44:13.786319		schema validation started!!!
+2021-06-24	01:44:13.804308		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	01:45:30.940450		schema validation started!!!
+2021-06-24	01:45:30.957439		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	01:48:03.434394		schema validation started!!!
+2021-06-24	01:48:03.493114		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	01:54:32.620294		schema validation started!!!
+2021-06-24	01:54:32.665663		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	01:55:36.773875		schema validation started!!!
+2021-06-24	01:55:36.798861		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	02:02:03.026014		schema validation started!!!
+2021-06-24	02:02:03.061993		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-24	02:02:49.285180		schema validation started!!!
+2021-06-24	02:02:49.301171		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-29	14H-40M-21S		schema validation started!!!
+2021-06-29	14H-40M-21S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-29	14H-42M-29S		schema validation started!!!
+2021-06-29	14H-42M-29S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-29	14H-42M-46S		schema validation started!!!
+2021-06-29	14H-42M-46S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-29	14H-48M-13S		schema validation started!!!
+2021-06-29	14H-48M-13S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-29	14H-48M-24S		schema validation started!!!
+2021-06-29	14H-48M-24S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-29	14H-49M-56S		schema validation started!!!
+2021-06-29	14H-49M-56S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-29	14H-50M-26S		schema validation started!!!
+2021-06-29	14H-50M-26S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-29	14H-51M-56S		schema validation started!!!
+2021-06-29	14H-51M-56S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-29	14H-53M-08S		schema validation started!!!
+2021-06-29	14H-53M-08S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-29	14H-54M-19S		schema validation started!!!
+2021-06-29	14H-54M-19S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-29	14H-55M-10S		schema validation started!!!
+2021-06-29	14H-55M-10S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-29	14H-55M-49S		schema validation started!!!
+2021-06-29	14H-55M-49S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-29	14H-55M-56S		schema validation started!!!
+2021-06-29	14H-55M-56S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-29	23H-19M-04S		schema validation started!!!
+2021-06-29	23H-19M-04S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-29	23H-20M-23S		schema validation started!!!
+2021-06-29	23H-20M-23S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-29	23H-24M-34S		schema validation started!!!
+2021-06-29	23H-24M-34S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-29	23H-25M-23S		schema validation started!!!
+2021-06-29	23H-25M-23S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-29	23H-27M-57S		schema validation started!!!
+2021-06-29	23H-27M-57S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-29	23H-41M-39S		schema validation started!!!
+2021-06-29	23H-41M-39S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	00H-53M-06S		schema validation started!!!
+2021-06-30	00H-53M-06S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	00H-53M-10S		schema validation started!!!
+2021-06-30	00H-53M-10S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	00H-53M-38S		schema validation started!!!
+2021-06-30	00H-53M-38S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-07M-32S		schema validation started!!!
+2021-06-30	20H-07M-32S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-09M-18S		schema validation started!!!
+2021-06-30	20H-09M-18S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-09M-35S		schema validation started!!!
+2021-06-30	20H-09M-35S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-10M-07S		schema validation started!!!
+2021-06-30	20H-10M-07S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-10M-57S		schema validation started!!!
+2021-06-30	20H-10M-57S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-12M-51S		schema validation started!!!
+2021-06-30	20H-12M-51S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-12M-57S		schema validation started!!!
+2021-06-30	20H-12M-57S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-13M-38S		schema validation started!!!
+2021-06-30	20H-13M-38S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-16M-07S		schema validation started!!!
+2021-06-30	20H-16M-07S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-16M-15S		schema validation started!!!
+2021-06-30	20H-16M-15S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-16M-58S		schema validation started!!!
+2021-06-30	20H-16M-59S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-17M-07S		schema validation started!!!
+2021-06-30	20H-17M-07S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-17M-52S		schema validation started!!!
+2021-06-30	20H-17M-52S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-19M-40S		schema validation started!!!
+2021-06-30	20H-19M-40S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-19M-47S		schema validation started!!!
+2021-06-30	20H-19M-47S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-20M-08S		schema validation started!!!
+2021-06-30	20H-20M-08S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-21M-47S		schema validation started!!!
+2021-06-30	20H-21M-47S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-21M-55S		schema validation started!!!
+2021-06-30	20H-21M-55S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-22M-03S		schema validation started!!!
+2021-06-30	20H-22M-03S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-22M-56S		schema validation started!!!
+2021-06-30	20H-22M-56S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-23M-25S		schema validation started!!!
+2021-06-30	20H-23M-25S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-24M-26S		schema validation started!!!
+2021-06-30	20H-24M-26S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-34M-42S		schema validation started!!!
+2021-06-30	20H-34M-42S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-35M-11S		schema validation started!!!
+2021-06-30	20H-35M-11S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-35M-19S		schema validation started!!!
+2021-06-30	20H-35M-19S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-35M-25S		schema validation started!!!
+2021-06-30	20H-35M-25S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	20H-35M-37S		schema validation started!!!
+2021-06-30	20H-35M-37S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	23H-10M-05S		schema validation started!!!
+2021-06-30	23H-10M-05S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	23H-13M-04S		schema validation started!!!
+2021-06-30	23H-13M-04S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	23H-14M-19S		schema validation started!!!
+2021-06-30	23H-14M-19S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	23H-14M-54S		schema validation started!!!
+2021-06-30	23H-14M-54S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	23H-15M-05S		schema validation started!!!
+2021-06-30	23H-15M-05S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	23H-15M-12S		schema validation started!!!
+2021-06-30	23H-15M-12S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	23H-16M-25S		schema validation started!!!
+2021-06-30	23H-16M-25S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	23H-21M-51S		schema validation started!!!
+2021-06-30	23H-21M-51S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	23H-23M-36S		schema validation started!!!
+2021-06-30	23H-23M-36S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	23H-24M-52S		schema validation started!!!
+2021-06-30	23H-24M-52S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	23H-26M-47S		schema validation started!!!
+2021-06-30	23H-26M-47S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	23H-27M-50S		schema validation started!!!
+2021-06-30	23H-27M-50S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	23H-30M-24S		schema validation started!!!
+2021-06-30	23H-30M-24S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	23H-30M-57S		schema validation started!!!
+2021-06-30	23H-30M-57S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	23H-34M-11S		schema validation started!!!
+2021-06-30	23H-34M-11S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-06-30	23H-34M-25S		schema validation started!!!
+2021-06-30	23H-34M-25S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	00H-14M-03S		schema validation started!!!
+2021-07-01	00H-14M-03S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	00H-14M-24S		schema validation started!!!
+2021-07-01	00H-14M-24S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	11H-45M-32S		schema validation started!!!
+2021-07-01	11H-45M-32S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	11H-45M-57S		schema validation started!!!
+2021-07-01	11H-45M-57S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	11H-47M-58S		schema validation started!!!
+2021-07-01	11H-47M-58S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	11H-49M-34S		schema validation started!!!
+2021-07-01	11H-49M-34S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	11H-49M-58S		schema validation started!!!
+2021-07-01	11H-49M-58S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	11H-50M-08S		schema validation started!!!
+2021-07-01	11H-50M-08S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	11H-57M-48S		schema validation started!!!
+2021-07-01	11H-57M-48S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	12H-32M-47S		schema validation started!!!
+2021-07-01	12H-32M-47S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	12H-33M-12S		schema validation started!!!
+2021-07-01	12H-33M-12S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	12H-33M-52S		schema validation started!!!
+2021-07-01	12H-33M-52S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	12H-35M-21S		schema validation started!!!
+2021-07-01	12H-35M-21S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	12H-40M-07S		schema validation started!!!
+2021-07-01	12H-40M-07S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	12H-40M-30S		schema validation started!!!
+2021-07-01	12H-40M-30S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	12H-44M-36S		schema validation started!!!
+2021-07-01	12H-44M-36S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	12H-54M-05S		schema validation started!!!
+2021-07-01	12H-54M-05S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	12H-57M-26S		schema validation started!!!
+2021-07-01	12H-57M-26S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	12H-57M-47S		schema validation started!!!
+2021-07-01	12H-57M-47S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	12H-59M-38S		schema validation started!!!
+2021-07-01	12H-59M-38S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-11M-30S		schema validation started!!!
+2021-07-01	13H-11M-31S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-12M-17S		schema validation started!!!
+2021-07-01	13H-12M-17S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-14M-47S		schema validation started!!!
+2021-07-01	13H-14M-47S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-18M-00S		schema validation started!!!
+2021-07-01	13H-18M-00S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-18M-10S		schema validation started!!!
+2021-07-01	13H-18M-10S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-19M-22S		schema validation started!!!
+2021-07-01	13H-19M-22S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-23M-12S		schema validation started!!!
+2021-07-01	13H-23M-12S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-24M-51S		schema validation started!!!
+2021-07-01	13H-24M-51S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-25M-42S		schema validation started!!!
+2021-07-01	13H-25M-42S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-28M-15S		schema validation started!!!
+2021-07-01	13H-28M-15S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-31M-12S		schema validation started!!!
+2021-07-01	13H-31M-12S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-32M-08S		schema validation started!!!
+2021-07-01	13H-32M-08S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-32M-55S		schema validation started!!!
+2021-07-01	13H-32M-55S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-34M-12S		schema validation started!!!
+2021-07-01	13H-34M-12S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-34M-35S		schema validation started!!!
+2021-07-01	13H-34M-35S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-35M-17S		schema validation started!!!
+2021-07-01	13H-35M-17S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-35M-29S		schema validation started!!!
+2021-07-01	13H-35M-29S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-44M-36S		schema validation started!!!
+2021-07-01	13H-44M-36S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-46M-19S		schema validation started!!!
+2021-07-01	13H-46M-19S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-48M-30S		schema validation started!!!
+2021-07-01	13H-48M-30S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-49M-00S		schema validation started!!!
+2021-07-01	13H-49M-00S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-49M-39S		schema validation started!!!
+2021-07-01	13H-49M-39S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-49M-49S		schema validation started!!!
+2021-07-01	13H-49M-49S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-54M-37S		schema validation started!!!
+2021-07-01	13H-54M-37S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-54M-45S		schema validation started!!!
+2021-07-01	13H-54M-45S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	13H-55M-30S		schema validation started!!!
+2021-07-01	13H-55M-30S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	14H-02M-08S		schema validation started!!!
+2021-07-01	14H-02M-08S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	14H-05M-30S		schema validation started!!!
+2021-07-01	14H-05M-30S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	14H-06M-21S		schema validation started!!!
+2021-07-01	14H-06M-21S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	14H-16M-31S		schema validation started!!!
+2021-07-01	14H-16M-31S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	14H-17M-25S		schema validation started!!!
+2021-07-01	14H-17M-25S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	14H-18M-16S		schema validation started!!!
+2021-07-01	14H-18M-16S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	14H-19M-09S		schema validation started!!!
+2021-07-01	14H-19M-09S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	14H-20M-15S		schema validation started!!!
+2021-07-01	14H-20M-15S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	18H-39M-35S		schema validation started!!!
+2021-07-01	18H-39M-35S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	18H-41M-15S		schema validation started!!!
+2021-07-01	18H-41M-15S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	18H-47M-07S		schema validation started!!!
+2021-07-01	18H-47M-07S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	18H-47M-21S		schema validation started!!!
+2021-07-01	18H-47M-21S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	18H-48M-11S		schema validation started!!!
+2021-07-01	18H-48M-11S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	18H-50M-25S		schema validation started!!!
+2021-07-01	18H-50M-25S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	18H-51M-21S		schema validation started!!!
+2021-07-01	18H-51M-21S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	18H-55M-40S		schema validation started!!!
+2021-07-01	18H-55M-40S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	18H-58M-06S		schema validation started!!!
+2021-07-01	18H-58M-06S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	18H-59M-11S		schema validation started!!!
+2021-07-01	18H-59M-11S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	18H-59M-31S		schema validation started!!!
+2021-07-01	18H-59M-31S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-01M-30S		schema validation started!!!
+2021-07-01	19H-01M-30S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-04M-31S		schema validation started!!!
+2021-07-01	19H-04M-31S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-06M-02S		schema validation started!!!
+2021-07-01	19H-06M-02S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-06M-48S		schema validation started!!!
+2021-07-01	19H-06M-48S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-07M-33S		schema validation started!!!
+2021-07-01	19H-07M-33S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-08M-22S		schema validation started!!!
+2021-07-01	19H-08M-22S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-11M-47S		schema validation started!!!
+2021-07-01	19H-11M-47S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-12M-34S		schema validation started!!!
+2021-07-01	19H-12M-34S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-14M-56S		schema validation started!!!
+2021-07-01	19H-14M-56S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-19M-09S		schema validation started!!!
+2021-07-01	19H-19M-09S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-20M-54S		schema validation started!!!
+2021-07-01	19H-20M-54S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-23M-31S		schema validation started!!!
+2021-07-01	19H-23M-32S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-26M-10S		schema validation started!!!
+2021-07-01	19H-26M-10S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-27M-00S		schema validation started!!!
+2021-07-01	19H-27M-00S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-27M-39S		schema validation started!!!
+2021-07-01	19H-27M-39S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-27M-57S		schema validation started!!!
+2021-07-01	19H-27M-57S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-29M-18S		schema validation started!!!
+2021-07-01	19H-29M-18S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-30M-03S		schema validation started!!!
+2021-07-01	19H-30M-03S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-32M-44S		schema validation started!!!
+2021-07-01	19H-32M-44S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-36M-56S		schema validation started!!!
+2021-07-01	19H-36M-56S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-37M-52S		schema validation started!!!
+2021-07-01	19H-37M-52S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-38M-22S		schema validation started!!!
+2021-07-01	19H-38M-22S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-41M-25S		schema validation started!!!
+2021-07-01	19H-41M-25S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-41M-54S		schema validation started!!!
+2021-07-01	19H-41M-54S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-46M-26S		schema validation started!!!
+2021-07-01	19H-46M-26S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-50M-55S		schema validation started!!!
+2021-07-01	19H-50M-55S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-01	19H-51M-28S		schema validation started!!!
+2021-07-01	19H-51M-28S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-02	11H-54M-05S		schema validation started!!!
+2021-07-02	11H-54M-05S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-02	11H-56M-40S		schema validation started!!!
+2021-07-02	11H-56M-40S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-02	11H-57M-37S		schema validation started!!!
+2021-07-02	11H-57M-37S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-02	12H-01M-23S		schema validation started!!!
+2021-07-02	12H-01M-23S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-02	12H-09M-11S		schema validation started!!!
+2021-07-02	12H-09M-11S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-02	12H-10M-13S		schema validation started!!!
+2021-07-02	12H-10M-13S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-02	12H-11M-19S		schema validation started!!!
+2021-07-02	12H-11M-19S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-02	12H-26M-27S		schema validation started!!!
+2021-07-02	12H-26M-27S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-02	23H-00M-14S		schema validation started!!!
+2021-07-02	23H-00M-14S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-02	23H-02M-55S		schema validation started!!!
+2021-07-02	23H-02M-55S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-02	23H-04M-12S		schema validation started!!!
+2021-07-02	23H-04M-12S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-02	23H-06M-23S		schema validation started!!!
+2021-07-02	23H-06M-23S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-02	23H-09M-21S		schema validation started!!!
+2021-07-02	23H-09M-22S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-02	23H-10M-08S		schema validation started!!!
+2021-07-02	23H-10M-08S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-02	23H-11M-43S		schema validation started!!!
+2021-07-02	23H-11M-43S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-02	23H-12M-50S		schema validation started!!!
+2021-07-02	23H-12M-50S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-02	23H-15M-54S		schema validation started!!!
+2021-07-02	23H-15M-54S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-02	23H-17M-33S		schema validation started!!!
+2021-07-02	23H-17M-33S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-02	23H-19M-35S		schema validation started!!!
+2021-07-02	23H-19M-35S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-02	23H-20M-22S		schema validation started!!!
+2021-07-02	23H-20M-22S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-03	23H-01M-26S		schema validation started!!!
+2021-07-03	23H-01M-26S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-03	23H-02M-06S		schema validation started!!!
+2021-07-03	23H-02M-06S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-03	23H-02M-47S		schema validation started!!!
+2021-07-03	23H-02M-47S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-03	23H-03M-45S		schema validation started!!!
+2021-07-03	23H-03M-45S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-03	23H-04M-28S		schema validation started!!!
+2021-07-03	23H-04M-28S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-03	23H-05M-37S		schema validation started!!!
+2021-07-03	23H-05M-37S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-03	23H-08M-17S		schema validation started!!!
+2021-07-03	23H-08M-17S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-03	23H-11M-18S		schema validation started!!!
+2021-07-03	23H-11M-18S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-03	23H-21M-49S		schema validation started!!!
+2021-07-03	23H-21M-49S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	22H-06M-10S		schema validation started!!!
+2021-07-05	22H-06M-10S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-06M-17S		schema validation started!!!
+2021-07-05	23H-06M-17S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-06M-54S		schema validation started!!!
+2021-07-05	23H-06M-54S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-07M-32S		schema validation started!!!
+2021-07-05	23H-07M-33S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-09M-02S		schema validation started!!!
+2021-07-05	23H-09M-02S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-09M-29S		schema validation started!!!
+2021-07-05	23H-09M-29S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-09M-49S		schema validation started!!!
+2021-07-05	23H-09M-49S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-10M-11S		schema validation started!!!
+2021-07-05	23H-10M-11S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-10M-21S		schema validation started!!!
+2021-07-05	23H-10M-21S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-11M-35S		schema validation started!!!
+2021-07-05	23H-11M-35S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-12M-37S		schema validation started!!!
+2021-07-05	23H-12M-37S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-13M-37S		schema validation started!!!
+2021-07-05	23H-13M-37S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-14M-16S		schema validation started!!!
+2021-07-05	23H-14M-16S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-15M-40S		schema validation started!!!
+2021-07-05	23H-15M-40S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-16M-11S		schema validation started!!!
+2021-07-05	23H-16M-11S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-17M-14S		schema validation started!!!
+2021-07-05	23H-17M-14S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-17M-46S		schema validation started!!!
+2021-07-05	23H-17M-46S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-25M-54S		schema validation started!!!
+2021-07-05	23H-25M-54S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-26M-12S		schema validation started!!!
+2021-07-05	23H-26M-12S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-36M-13S		schema validation started!!!
+2021-07-05	23H-36M-13S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-37M-41S		schema validation started!!!
+2021-07-05	23H-37M-41S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-38M-57S		schema validation started!!!
+2021-07-05	23H-38M-57S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-40M-00S		schema validation started!!!
+2021-07-05	23H-40M-00S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-40M-20S		schema validation started!!!
+2021-07-05	23H-40M-20S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-05	23H-42M-08S		schema validation started!!!
+2021-07-05	23H-42M-08S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-09	15H-18M-40S		schema validation started!!!
+2021-07-09	15H-18M-40S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-11	01H-11M-57S		schema validation started!!!
+2021-07-11	01H-11M-57S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-11	01H-17M-59S		schema validation started!!!
+2021-07-11	01H-17M-59S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-11	01H-18M-21S		schema validation started!!!
+2021-07-11	01H-18M-21S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-11	01H-21M-26S		schema validation started!!!
+2021-07-11	01H-21M-26S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-11	01H-24M-01S		schema validation started!!!
+2021-07-11	01H-24M-01S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-11	01H-25M-46S		schema validation started!!!
+2021-07-11	01H-25M-46S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-11	01H-27M-50S		schema validation started!!!
+2021-07-11	01H-27M-50S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-11	01H-46M-04S		schema validation started!!!
+2021-07-11	01H-46M-04S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-11	01H-52M-15S		schema validation started!!!
+2021-07-11	01H-52M-15S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-11	01H-55M-41S		schema validation started!!!
+2021-07-11	01H-55M-41S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-11	02H-00M-54S		schema validation started!!!
+2021-07-11	02H-00M-54S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-11	02H-03M-12S		schema validation started!!!
+2021-07-11	02H-03M-12S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-11	02H-03M-59S		schema validation started!!!
+2021-07-11	02H-03M-59S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-11	02H-10M-13S		schema validation started!!!
+2021-07-11	02H-10M-13S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
+2021-07-11	02H-28M-31S		schema validation started!!!
+2021-07-11	02H-28M-31S		schema loaded successfully!!! 
+ Sample_File_Name : wafer_08012020_120000.csv
+ Length_of_date_stamp : 8
+ Length_of_time_stamp : 6
+ Number_of_columns : 592
