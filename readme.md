@@ -1,2 +1,2 @@
 # SensorFaultDetection
-detects the fault in wafers using ML models 
+Classification model that can predict  the quality of wafer sensor being produced from a given data set 
